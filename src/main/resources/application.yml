@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Rest JPA
+  h2:
+    console:
+      path: /console
+      enabled: true
